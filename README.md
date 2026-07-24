@@ -26,4 +26,4 @@
 
 - Portfolio: https://portfolio.tirok.ir/en
 - GitHub: https://github.com/TIROK547
-- Telegram: t.me/xyaes
+- Telegram: https://t.me/xyaes
